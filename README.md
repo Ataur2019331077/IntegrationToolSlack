@@ -130,4 +130,4 @@ Here is a GIF file that show Testing of this project<br>
 
 ## 📄 License
 
-This project is for internal and educational use only.
+This project is under [MIT License](./LICENSE.md)
